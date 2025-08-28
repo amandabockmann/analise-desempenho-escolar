@@ -25,5 +25,3 @@ Esta pasta contém informações sobre o **dataset** utilizado na análise.
 > 
 
 
-## 📁 Estrutura Esperada
-
