@@ -47,3 +47,20 @@ Optamos pelo **Student Performance Dataset (UCI ML Repository)**, pois ele apres
 
 ## 📂 Estrutura do Repositório
 
+
+
+---
+
+## 👥 Equipe
+
+- Amanda Bockmann dos Santos  
+- Karina Araújo  
+- Samilly Beatriz  
+
+---
+
+## 📎 Links
+
+- 🔗 **Apresentação**: [Clique aqui](https://www.canva.com/design/DAGt1V7CNMo/NLzgLqB7eVd8ATzCwV1M7w/view?utm_content=DAGt1V7CNMo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9fccb52310)  
+- 🔗 **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/amanda-b%C3%B6ckmann-238845371/)
+
